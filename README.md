@@ -1,1 +1,1 @@
-# AMDproject
+# AMD project
